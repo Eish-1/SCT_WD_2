@@ -100,23 +100,5 @@ UI
 - High-contrast theme tokens in both light/dark
 - Keyboard-friendly UI via Radix primitives
 
-## SEO
-- Title: "Hotline Miami Stopwatch" (<60 chars)
-- Meta description: concise keyword-rich summary
-- Canonical tag added in index.html
-- Semantic HTML used in pages
-
-## Contributing
-- Fork → branch → PR
-- Write clear commit messages
-- Run npm run lint and npm run type-check
-- Add tests if introducing logic
-
-## Changelog (recent)
-- Removed glow on main time display; kept neon pink
-- Added ScrollArea for Lap Times with themed scrollbar
-- Minor cleanup: removed unused icon import in Stopwatch
-- SEO: updated title/description/canonical in index.html
-
 ## License
 MIT
